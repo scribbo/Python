@@ -8,5 +8,3 @@ with open('nginx_logs.txt', 'r', encoding='utf-8') as f:
 print(result)
 print(result[0])
 print(result[-1])
-
-
